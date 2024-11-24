@@ -12,7 +12,7 @@
 <table class="table table-responsive">
 
 <tr>
-    <td>No</td>
+    <td>Nomor</td>
     <td>NIM</td>
     <td>Nama</td>
 </tr>
