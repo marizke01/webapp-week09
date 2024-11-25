@@ -8,7 +8,7 @@
 <div class="row">
 <div class="col-md-12">
 <div class="col-md-4">&nbsp;</div>
-<div class="col-md-4"><h3>Data Mahasiswa</h3>
+<div class="col-md-4"><h3>Data Mahasiswaagit</h3>
 <?php
 echo 'id:' . $rs['id'] . '<br/>';
 echo 'NIM:' . $rs['nim'] . '<br/>';
