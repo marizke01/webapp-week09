@@ -15,7 +15,7 @@
 <input type="text" class="form-control" id="exampleInputNim" name="nim" placeholder="NIM">
 </div>
 <div class="form-group">
-<label for="exampleInputNama">Nama</label>
+<label for="exampleInputNama">NAMAAA</label>
 
 <input type="text" class="form-control" id="exampleInputNama" name="nama" placeholder="Nama">
 </div>
